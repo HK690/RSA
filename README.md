@@ -1,4 +1,4 @@
-A RSA Program In Python. The Program is made in VS Code.
+A Encryption and Decryption Program based RSA Program In Python. The Program is made in VS Code.
 It allow user to choose Encryption and Decryption then accept user Input.
 
 Steps:
