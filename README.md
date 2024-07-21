@@ -1,4 +1,5 @@
-A Simple Encryption Decryption Program In Python. The Program is made in VS Code.
+A RSA Program In Python. The Program is made in VS Code.
+It allow user to choose Encryption and Decryption then accept user Input.
 
 Steps:
 
